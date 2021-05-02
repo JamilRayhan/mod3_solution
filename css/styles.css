@@ -28,10 +28,11 @@ body{
 }
 #nav-list {
   margin-top: 10px;
+  
 }
 #nav-list a {
   color: #fff;
-  
+  border-bottom: 1px solid black;
   text-align: center;
 }
 #nav-list a:hover {
