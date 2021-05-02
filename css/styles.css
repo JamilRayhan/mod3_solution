@@ -23,6 +23,9 @@ body{
   	line-height: .75;
   	text-align: left;
 }
+.navbar-brand h1:hover{
+	text-shadow:2px 2px 2px #484848;
+}
 .navbar-brand a:hover, .navbar-brand a:focus{
 	text-decoration: none;
 }
@@ -45,9 +48,8 @@ body{
 /*body*/
 h1{
 	font-size: 175%;
-	text-align: center;
 	font-family: 'Krona One', sans-serif;
-	text-shadow: 1px 1px 1px #222;
+	text-shadow: -2px 2px 3px #4e0404;
 }
 .sec{
 	background-color: #311010;
